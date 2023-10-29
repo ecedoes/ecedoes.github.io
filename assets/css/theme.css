@@ -170,9 +170,9 @@ article .card-body {
 	font-weight:500;
 }
 .pagination span.webjeda {
-	background:#bd081c;
+	background:#000000;
 	color:#fff;
-	border:1px solid #bd081c;
+	border:1px solid #000000;
 }
 .pagination a,.pagination span.prev,.pagination span.next {
 	background-color:#ffffff;
@@ -181,7 +181,7 @@ article .card-body {
 	color:#333;
 }
 .pagination a {
-	color:#bd081c;
+	color:#000000;
 }
 .pagination a:hover {
 	background-color:#f1f1f1;
