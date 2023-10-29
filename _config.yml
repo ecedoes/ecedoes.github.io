@@ -1,6 +1,6 @@
 # Site
-name: 'ecedoes'
-description: 'things'
+name: 'things'
+description: 'making whatever'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
