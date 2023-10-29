@@ -1,7 +1,7 @@
 ---
-title:  "Hello World"
+title:  "hello world"
 metadate: "hide"
-categories: [ Premium, UI, Templates ]
+categories: [ Linocut, print, stamp ]
 image: "/assets/images/pp.jpg"
 visit: "https://www.instagram.com/ecedoes/"
 ---
