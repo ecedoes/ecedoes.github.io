@@ -550,9 +550,10 @@ pre {
 
 /* line 6, node_modules/bootstrap/scss/_grid.scss */
 .container {
+  text-align: center;
   width: 100%;
   padding-right: 15px;
-  padding-left: 14%;
+  padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
   @media (min-width: 576px) {
