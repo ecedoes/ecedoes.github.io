@@ -557,21 +557,7 @@ pre {
   margin-right: auto;
   margin-left: auto; }
   @media (min-width: 576px) {
-    /* line 6, node_modules/bootstrap/scss/_grid.scss */
-    .container {
-      max-width: 540px; } }
-  @media (min-width: 768px) {
-    /* line 6, node_modules/bootstrap/scss/_grid.scss */
-    .container {
-      max-width: 720px; } }
-  @media (min-width: 992px) {
-    /* line 6, node_modules/bootstrap/scss/_grid.scss */
-    .container {
-      max-width: 960px; } }
-  @media (min-width: 1200px) {
-    /* line 6, node_modules/bootstrap/scss/_grid.scss */
-    .container {
-      max-width: 1040px; } }
+     }
 
 /* line 18, node_modules/bootstrap/scss/_grid.scss */
 .container-fluid {
