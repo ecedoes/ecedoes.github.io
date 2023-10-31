@@ -8770,7 +8770,7 @@ button.bg-gray200:focus {
 /* line 25, node_modules/bootstrap/scss/utilities/_spacing.scss */
 .pl-2,
 .px-2 {
-  padding-left: 0.5rem !important; }
+  padding-left: 1.5rem !important; }
 
 /* line 12, node_modules/bootstrap/scss/utilities/_spacing.scss */
 .p-3 {
